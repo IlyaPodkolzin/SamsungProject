@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "22786450842",
+    "project_id": "autolife-26c84",
+    "storage_bucket": "autolife-26c84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22786450842:android:a4cdccbb589fd263d34623",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22786450842-9ftthi9to4cvcs9h0tfb34tpg0ccjuuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "3a4e7549c6499da22f2e1ba2f95e90c2087106db"
+          }
+        },
+        {
+          "client_id": "22786450842-sa5iog41c5f3h5h67niv2hov1g18g38l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjghwOmB0ki4G47lo3kOT6GvsFJy_z8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22786450842-sa5iog41c5f3h5h67niv2hov1g18g38l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

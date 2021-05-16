@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fragment1_text1">Основная статистика автомобиля:</string>
+    <string name="fragment1_text2">Зарегистрирован:</string>
+    <string name="fragment1_text3">Пробег, засчитанный приложением:</string>
+    <string name="fragment1_text4">Зарегистрированных ОСАГО:</string>
+    <string name="fragment1_text5">Процент проведения ЕТО:</string>
+    <string name="fragment1_text6">Статистика пробега автомобиля:</string>
+</resources>
